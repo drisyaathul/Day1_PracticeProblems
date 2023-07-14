@@ -22,6 +22,5 @@ public class PrimitiveDataType {
         System.out.println("The Default value of double is " +dataType.f);
         System.out.println("The Default value of char is " +dataType.g);
         System.out.println("The Default value of boolean is " +dataType.h);
-
     }
 }
